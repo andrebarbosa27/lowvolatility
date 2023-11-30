@@ -38,4 +38,4 @@ Para executar este projeto, instale as bibliotecas necessárias utilizando `pip 
 Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Contato
-Para mais informações, entre em contato com [andr642010@hotmail.com].
+Para mais informações, entre em contato com andr642010@hotmail.com
