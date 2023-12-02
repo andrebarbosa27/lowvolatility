@@ -19,6 +19,12 @@ Para executar este projeto, instale as bibliotecas necessárias utilizando `pip 
 
 ## Screenshots
 
+### Métricas Anualizadas
+![Métricas Anualizadas](https://github.com/andrebarbosa27/lowvolatility/blob/master/annualized_metrics.png)
+
+### Métricas de Risco
+![Métricas de Risco](https://github.com/andrebarbosa27/lowvolatility/blob/master/risk_table.png)
+
 ### Comparação de Estratégias de Trade
 ![Comparação de Estratégias de Trade](https://github.com/andrebarbosa27/lowvolatility/blob/master/Compara%C3%A7%C3%A3o%20de%20Estrat%C3%A9gias%20de%20Trade.png)
 
@@ -39,3 +45,6 @@ Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se 
 
 ## Contato
 Para mais informações, entre em contato com andr642010@hotmail.com
+
+## Trabalho no repositório da Universidade
+Link do trabalho: (https://repositorio.ufu.br/handle/123456789/39526)
